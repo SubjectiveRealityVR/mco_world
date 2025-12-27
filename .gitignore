@@ -1,0 +1,9 @@
+# Ignorar todo
+*
+
+# Permitir region
+!region/
+!region/**
+
+# Permitir gitignore
+!.gitignore
